@@ -1,6 +1,5 @@
 # 👋🏼 Hi, I'm Taylor Sabbag
 
-
 I convince ancient, compressed dinosaur smoothies to power my portable zap-rectangle, which whispers binary secrets through *sparkly* noodles to my desk-dwelling thunder-cabinet. By frantically tapping on these letter-squares made of fossilized prehistoric juice, I conjure digital spells that transform caffeine into features.
 
 Through this mystical process of keyboard divination and electron-herding, I hope to craft digital enchantments that make your existence more magical. If not, I shall continue communing with the silicon spirits until the code-gods smile upon my offerings.

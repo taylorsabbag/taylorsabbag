@@ -13,12 +13,12 @@ def clean_description(desc, length=100):
     return desc
 
 # Read the RSS feed
-feed = feedparser.parse('https://www.taylorsabbag.dev/rss')
+feed = feedparser.parse('YOUR_RSS_FEED_URL')
 
 # Prepare the new table content
 table_content = """## Things I've Written
 
-*Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire (blog) through ancient RSS enchantments:*
+*Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire through ancient RSS enchantments:*
 
 | 📜 Scroll Title | 🌟 Date of Enchantment | 🔮 Magical Synopsis |
 |-----------------|----------------------|-------------------|
@@ -26,8 +26,16 @@ table_content = """## Things I've Written
 
 # Add up to 5 most recent posts
 for entry in feed.entries[:5]:
-    # Format the date
-    date = datetime.datetime.strptime(entry.published, '%a, %d %b %Y %H:%M:%S %z').strftime('%Y-%m-%d')
+    try:
+        # Try the original format first
+        date = datetime.datetime.strptime(entry.published, '%a, %d %b %Y %H:%M:%S %z').strftime('%Y-%m-%d')
+    except ValueError:
+        try:
+            # Try the GMT format
+            date = datetime.datetime.strptime(entry.published, '%a, %d %b %Y %H:%M:%S GMT').strftime('%Y-%m-%d')
+        except ValueError:
+            # If both fail, just use the raw date or a fallback
+            date = entry.published.split('T')[0] if 'T' in entry.published else entry.published
     
     # Clean and format the description
     description = clean_description(entry.description)

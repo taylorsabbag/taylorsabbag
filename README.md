@@ -30,20 +30,33 @@ Through this mystical process of keyboard divination and electron-herding, I hop
 
 ### LinguaFrankly <img alt="LinguaFrankly icon: a parrot." src="assets/app_icon.png" width="35" />
 
-An app for acquiring second-languages through the power of optimal input via daily short stories. Built with SvelteKit (Svelte 5), Supabase, PostgreSQL, DeepL, OpenAI GPT 4, TypeScript, Tailwind CSS, and love.
+An app for acquiring second-languages through the power of optimal input via daily short stories.
+
+**Built with**: SvelteKit (Svelte 5), Supabase, PostgreSQL, DeepL, OpenAI GPT 4, TypeScript, Tailwind CSS, and love.
 
 [https://linguafrankly.taylorsabbag.dev](https://linguafrankly.taylorsabbag.dev)
 
 ### My Portfolio/Blog
 
-Really just a repeat of this page but more ✨*magical*✨. Built with Next.js, React, TypeScript, MDX, Tailwind CSS, and hope.
+Really just a repeat of this page but more ✨*magical*✨.
+
+**Built with**: Next.js, React, TypeScript, MDX, Tailwind CSS, and hope.
 
 [https://taylorsabbag.dev](https://taylorsabbag.dev)
 
+### makeitMVP Member Management Tool
+
+Member management dashboard with a unique integration of engagement tools.
+
+**Built with**: JavaScript, Firebase, React, Sass, and a prayer.
+
+[https://github.com/makeitMVPadmin/Member](https://github.com/makeitMVPadmin/Member)
+
+<!-- TODO: Update portfolio RSS to use correct url. Currently manually updating url below. -->
 ## Things I've Written
 
 *Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire through ancient RSS enchantments:*
 
 | 📜 Scroll Title | 🌟 Date of Enchantment | 🔮 Magical Synopsis |
 |-----------------|----------------------|-------------------|
-| [Why You Should Learn FizzBuzz: The Quiet (In)Dignity of a Simple Interview Question](https://portfolio-blog-starter.vercel.app/blog/fizzbuzz) | 2023-06-24 | An exploration of the best and possibly worst solutions for a child's game. |
+| [Why You Should Learn FizzBuzz: The Quiet (In)Dignity of a Simple Interview Question](https://taylorsabbag.dev/blog/fizzbuzz) | 2023-06-24 | An exploration of the best and possibly worst solutions for a child's game. |

@@ -7,12 +7,6 @@ Through this mystical process of keyboard divination and electron-herding, I hop
     <img src="assets/signature.png" width="100" />
 </p>
 
-## Places You Can Find/Contact Me
-
-**Email**: <a href="mailto:taylorsabbag@gmail.com">taylorsabbag@gmail.com</a>
-
-**LinkedIn**: <a href="https://www.linkedin.com/in/taylor-sabbag">https://www.linkedin.com/in/taylor-sabbag</a>
-
 ## Things About Me
 
 - I'm currently the **Lead Software Engineer** at Evexia Inc., where we're building the next-generation of mental health support software.

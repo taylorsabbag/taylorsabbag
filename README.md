@@ -8,8 +8,7 @@ Through this mystical process of keyboard divination and electron-herding, I hop
 
 **Email**: <a href="mailto:taylorsabbag@gmail.com">taylorsabbag@gmail.com</a>
 
-**LinkedIn**: <a href="https://www.linkedin.com/in/taylor-sabbag" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/taylor-sabbag</a>
-
+**LinkedIn**: <a href="https://www.linkedin.com/in/taylor-sabbag">https://www.linkedin.com/in/taylor-sabbag</a>
 
 ## Things About Me
 
@@ -26,21 +25,18 @@ Through this mystical process of keyboard divination and electron-herding, I hop
 
 ## Things I've Made
 
-### LinguaFrankly <img alt="LinguaFrankly icon: a parrot." src="assets/app_icon.png" width="35" style="margin-block-end: -0.6rem; margin-inline-start: 0.5rem;" />
+### LinguaFrankly <img alt="LinguaFrankly icon: a parrot." src="assets/app_icon.png" width="35" />
 
 An app for acquiring second-languages through the power of optimal input via daily short stories. Built with SvelteKit (Svelte 5), Supabase, PostgreSQL, DeepL, OpenAI GPT 4, TypeScript, Tailwind CSS, and love.
 
 [https://linguafrankly.taylorsabbag.dev](https://linguafrankly.taylorsabbag.dev)
 
-### My Portfolio/Blog 
+### My Portfolio/Blog
 
 Really just a repeat of this page but more ✨*magical*✨. Built with Next.js, React, TypeScript, MDX, Tailwind CSS, and hope.
 
 [https://taylorsabbag.dev](https://taylorsabbag.dev)
 
-
 ## Things I've Written
-
-
 
 <img src="assets/signature.png" alt="My signature" width="200" />

@@ -13,7 +13,7 @@ def clean_description(desc, length=100):
     return desc
 
 # Read the RSS feed
-feed = feedparser.parse('YOUR_RSS_FEED_URL')
+feed = feedparser.parse('https://www.taylorsabbag.dev/rss')
 
 # Prepare the new table content
 table_content = """## Things I've Written

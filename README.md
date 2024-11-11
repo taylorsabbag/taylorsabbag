@@ -1,8 +1,5 @@
-<p align="right">
-    <img src="assets/signature.png" alt="My signature" width="250" style="margin-block-end: -9rem; opacity: 0.25;" />
-</p>
-
 # 👋🏼 Hi, I'm Taylor Sabbag
+
 
 I convince ancient, compressed dinosaur smoothies to power my portable zap-rectangle, which whispers binary secrets through *sparkly* noodles to my desk-dwelling thunder-cabinet. By frantically tapping on these letter-squares made of fossilized prehistoric juice, I conjure digital spells that transform caffeine into features.
 
@@ -44,3 +41,7 @@ Really just a repeat of this page but more ✨*magical*✨. Built with Next.js, 
 
 
 ## Things I've Written
+
+
+
+<img src="assets/signature.png" alt="My signature" width="200" />

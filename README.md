@@ -3,6 +3,9 @@
 I convince ancient, compressed dinosaur smoothies to power my portable zap-rectangle, which whispers binary secrets through *sparkly* noodles to my desk-dwelling thunder-cabinet. By frantically tapping on these letter-squares made of fossilized prehistoric juice, I conjure digital spells that transform caffeine into features.
 
 Through this mystical process of keyboard divination and electron-herding, I hope to craft digital enchantments that make your existence more magical. If not, I shall continue communing with the silicon spirits until the code-gods smile upon my offerings.
+<p align="right">
+    <img src="assets/signature.png" width="100" />
+</p>
 
 ## Places You Can Find/Contact Me
 
@@ -44,4 +47,3 @@ Really just a repeat of this page but more ✨*magical*✨. Built with Next.js, 
 | 📜 Scroll Title | 🌟 Date of Enchantment | 🔮 Magical Synopsis |
 |-----------------|----------------------|-------------------|
 | [Why You Should Learn FizzBuzz: The Quiet (In)Dignity of a Simple Interview Question](https://portfolio-blog-starter.vercel.app/blog/fizzbuzz) | 2023-06-24 | An exploration of the best and possibly worst solutions for a child's game. |
-

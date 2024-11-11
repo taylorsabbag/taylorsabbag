@@ -5,6 +5,7 @@ I convince ancient, compressed dinosaur smoothies to power my portable zap-recta
 Through this mystical process of keyboard divination and electron-herding, I hope to craft digital enchantments that make your existence more magical. If not, I shall continue communing with the silicon spirits until the code-gods smile upon my offerings.
 
 <img src="assets/signature.png" width="100" />
+
 *Taylor Sabbag*
 
 ## Things About Me

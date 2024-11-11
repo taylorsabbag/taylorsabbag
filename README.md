@@ -6,8 +6,6 @@ Through this mystical process of keyboard divination and electron-herding, I hop
 
 <img src="assets/signature.png" width="100" />
 
-*Taylor Sabbag*
-
 ## Things About Me
 
 - I'm currently the **Lead Software Engineer** at Evexia Inc., where we're building the next-generation of mental health support software.

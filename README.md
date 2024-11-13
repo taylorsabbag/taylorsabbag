@@ -1,23 +1,44 @@
-# 👋🏼 Heyo!
+# 👋🏼 Hi there
 
-I convince ancient, compressed dinosaur smoothies to power my portable zap-rectangle, which whispers binary secrets through *sparkly* noodles to my desk-dwelling thunder-cabinet. By frantically tapping on these letter-squares made of fossilized prehistoric juice, I conjure digital spells that transform caffeine into features.
+I'm currently the **full-stack lead software engineer** at Evexia Inc. building a *real* revolution in mental health.
 
-Through this mystical process of keyboard divination and electron-herding, I hope to craft digital enchantments that make your existence more magical. If not, I shall continue communing with the silicon spirits until the code-gods smile upon my offerings.
+I code mostly for the web using technologies like JavaScript, TypeScript, Python, React, React Native, HTML, CSS, Node, Express.js, Next.js, Svelte, SvelteKit, SQL, PostgresSQL, and MySQL. Yeah, that's a lot, but such is the web these days. However, I love going deep particularly on understanding the eccentricities and capabilities of JavaScript and the web APIs. I use Git and GitHub to manage my software versioning.
+
+I currently live in Hamilton, Ontario, Canada (near Toronto if you're from outside Canada), but I'm open to opportunities around the world!
 
 <img src="assets/signature.png" width="100" />
 
 ## Things About Me
 
-- I'm currently the **Lead Software Engineer** at Evexia Inc., where we're building the next-generation of mental health support software.
 - I started developing for the web when pixel-perfection was still viable, Flash ruled the world, responsive design was just a twinkle in Ethan Marcotte's eye, and tables were used for basically everything.
-- I attended a Bachelor of Arts in Psychology and a Master of Arts in Counselling Psychology.
+- I attended a Bachelor of Arts in Psychology and a Master of Arts in Counselling Psychology at Wilfrid Laurier University and Yorkville University, respectively.
   - Don't worry. I can't read minds...yet.
-- I can craft incantations in **JavaScript, TypeScript, Python, and SQL** (including MySQL and PostgreSQL).
-- I've also performed digital rituals for **HTML, CSS, Tailwind CSS, React, React Native, Node, Express.js, Next.js, Svelte, and SvelteKit**.
-- I'm skilled in the art of parallel universe management using **Git and GitHub**.
-- I'm a full-stack sorcerer who has mastered both the frontend and backend realms.
 - I also love food, cooking, board games, puzzles, escape rooms, travel, and exploring other cultures.
 - I'm currently learning Dutch and Hebrew.
+
+## Places I've Worked
+
+### Evexia Inc. | Lead Software Engineer
+
+AUG 2024 - PRESENT
+
+Named after the Greek word for "wellness", we are striving to bridge the gap between the amount of therapy we need and the amount of therapists and mental health providers there are. We're building a new approach to therapy and making supplemental resources for mental health to help tackle the growing crisis.
+
+As the lead software engineer, I architect and build the app and website using TypeScript, React, React Native, Firebase, and other web/mobile-native solutions.
+
+### PlayToday | Back-End Developer
+
+MAY 2024 - AUG 2024
+
+PlayToday is an app to encourage customer engagement, retention, and satisfaction for a global property management company by providing an all-in-one solution for new residents to become accustomed to their new residences and residential areas.
+
+As the solo back-end developer, I engineered a robust Express.js-based REST API including JWT-based authentication, CRUD operations with Azure database integration via MongoDB and Mongoose, and public API key generation and usage. In addition, the app includes a robust logging and access tracking system and the ability to stream CSVs to automatically parse and generate data.
+
+### makeitMVP | Junior Software Engineer
+
+MAR 2024 - MAY 2024
+
+As part of a cross-functional team, I collaborated with designers and a project manager to develop a comprehensive member management tool/dashboard, using React and Firebase, to streamline community operations for organizations and their community managers.
 
 ## Things I've Made
 
@@ -37,18 +58,9 @@ Really just a repeat of this page but more ✨*magical*✨.
 
 [https://taylorsabbag.dev](https://taylorsabbag.dev)
 
-### makeitMVP Member Management Tool
-
-Member management dashboard with a unique integration of engagement tools.
-
-**Built with**: JavaScript, Firebase, React, Sass, and a prayer.
-
-[https://github.com/makeitMVPadmin/Member](https://github.com/makeitMVPadmin/Member)
-
-<!-- TODO: Update portfolio RSS to use correct url. Currently manually updating url below. -->
 ## Things I've Written
 
-*Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire through ancient RSS enchantments:*
+*Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire (blog) through ancient RSS enchantments:*
 
 | 📜 Scroll Title | 🌟 Date of Enchantment | 🔮 Magical Synopsis |
 |-----------------|----------------------|-------------------|

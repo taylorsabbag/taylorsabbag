@@ -60,8 +60,9 @@ Really just a repeat of this page but more ✨*magical*✨.
 
 ## Things I've Written
 
-*Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire (blog) through ancient RSS enchantments:*
+*Behold, my digital scrolls of wisdom! These mystical texts are automatically summoned from my personal grimoire through ancient RSS enchantments:*
 
 | 📜 Scroll Title | 🌟 Date of Enchantment | 🔮 Magical Synopsis |
 |-----------------|----------------------|-------------------|
 | [Why You Should Learn FizzBuzz: The Quiet (In)Dignity of a Simple Interview Question](https://taylorsabbag.dev/blog/fizzbuzz) | 2023-06-24 | An exploration of the best and possibly worst solutions for a child's game. |
+

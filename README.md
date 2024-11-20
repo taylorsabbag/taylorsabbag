@@ -42,6 +42,14 @@ As part of a cross-functional team, I collaborated with designers and a project 
 
 ## Things I've Made
 
+### Theme Editor (name wip)
+
+An app for devs and designers to collaborate on, create, modify, and share color and design systems for their website/app's components.
+
+**Buult with**: Next.js, TypeScript, React, Tailwind CSS, Shadcn/UI, and passion.
+
+[https://shadcn.taylorsabbag.com](https://shadcn.taylorsabbag.com)
+
 ### LinguaFrankly <img alt="LinguaFrankly icon: a parrot." src="assets/app_icon.png" width="35" />
 
 An app for acquiring second-languages through the power of optimal input via daily short stories.

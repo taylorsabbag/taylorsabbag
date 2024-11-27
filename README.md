@@ -56,7 +56,7 @@ An app for acquiring second-languages through the power of optimal input via dai
 
 **Built with**: SvelteKit (Svelte 5), Supabase, PostgreSQL, DeepL, OpenAI GPT 4, TypeScript, Tailwind CSS, and love.
 
-[https://linguafrankly.taylorsabbag.dev](https://linguafrankly.taylorsabbag.dev)
+[https://linguafrankly.taylorsabbag.com](https://linguafrankly.taylorsabbag.com)
 
 ### My Portfolio/Blog
 
@@ -64,7 +64,7 @@ Really just a repeat of this page but more ✨*magical*✨.
 
 **Built with**: Next.js, React, TypeScript, MDX, Tailwind CSS, and hope.
 
-[https://taylorsabbag.dev](https://taylorsabbag.dev)
+[https://taylorsabbag.com](https://taylorsabbag.com)
 
 ## Things I've Written
 

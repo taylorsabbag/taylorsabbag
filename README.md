@@ -1,6 +1,6 @@
 # 👋🏼 Hi there
 
-I'm currently the **full-stack lead software engineer** at Evexia Inc. building a *real* revolution in mental health.
+I'm currently the **lead software engineer** at Evexia Inc. building a *real* revolution in mental health.
 
 I code mostly for the web using technologies like JavaScript, TypeScript, Python, React, React Native, HTML, CSS, Node, Express.js, Next.js, Svelte, SvelteKit, SQL, PostgresSQL, and MySQL. Yeah, that's a lot, but such is the web these days. However, I love going deep particularly on understanding the eccentricities and capabilities of JavaScript and the web APIs. I use Git and GitHub to manage my software versioning.
 

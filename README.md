@@ -6,7 +6,11 @@ I code mostly for the web using technologies like JavaScript, TypeScript, Python
 
 I currently live in Hamilton, Ontario, Canada (near Toronto if you're from outside Canada), but I'm open to opportunities around the world!
 
-<img src="assets/signature.png" alt="signature" width="100" height="auto">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signature_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/signature.png">
+  <img alt="signature" src="assets/signature.png" width="100">
+</picture>
 
 
 ## Things About Me
